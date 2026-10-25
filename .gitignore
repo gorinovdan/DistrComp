@@ -1,0 +1,5 @@
+.DS_Store
+*.o
+*.log
+/lab0/pa1/pa1
+/lab1/pa6/pa6
